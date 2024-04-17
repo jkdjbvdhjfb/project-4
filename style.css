@@ -1,0 +1,21 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.ungu{
+    color: blueviolet;
+}
+
+#merah{
+    color: #ff3131;
+}
+
+[value="3"]{
+    color: palevioletred;
+}
+
